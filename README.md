@@ -7,7 +7,7 @@ Enter you gmail and password in your config.py file.
 ### Spotify App Credentials
 You will need Spotify App Credentials. You can get those at [My Applications](https://developer.spotify.com/my-applications/#!/applications)
 
-You can provide anything for the callback url. This will simply be used to get the token.
+You can provide anything for the callback url. This will simply be used to get the token. If you can't think of a callback url, feel free to use https://djrausch.github.io/GPMify/
 
 ## Usage
 Once you have setup your config.py, simply run from your terminal.
