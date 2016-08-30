@@ -1,0 +1,6 @@
+{
+  "name": "Gpmify",
+  "tagline": "An unofficial Python script for converting Google Play Music Playlists to Spotify",
+  "body": "# GPMify\r\nA Python script for converting Google Play Music Playlists to Spotify\r\n## Setup\r\nThere are some require paramerters you must configure inside of config.py. An example config is provided at config.py.example\r\n### Google Credentials\r\nEnter you gmail and password in your config.py file.\r\n### Spotify App Credentials\r\nYou will need Spotify App Credentials. You can get those at [My Applications](https://developer.spotify.com/my-applications/#!/applications)\r\n\r\nYou can provide anything for the callback url. This will simply be used to get the token.\r\n\r\n## Usage\r\nOnce you have setup your config.py, simply run from your terminal.\r\n> python3 gpmify.py\r\n\r\n## Libraries\r\nThis script is made possible with the following libraries\r\n* [Spotipy](https://github.com/plamere/spotipy)\r\n* [gmusicapi](https://github.com/simon-weber/gmusicapi)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
