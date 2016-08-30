@@ -1,0 +1,12 @@
+config = {
+    "google": {
+        "email": "email@gmail.com",
+        "password": "password"
+    },
+    "spotify": {
+        "client_id": "",
+        "client_secret": "",
+        "redirect_uri": ""
+        "username":""
+    }
+}
