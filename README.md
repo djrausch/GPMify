@@ -3,7 +3,7 @@ A Python script for converting Google Play Music Playlists to Spotify
 ## Setup
 There are some require paramerters you must configure inside of config.py. An example config is provided at config.py.example
 ### Google Credentials
-Enter you gmail and password in your config.py file.
+Enter you gmail and password in your config.py file. If you are using 2 step verification, you will need to generate an app specific password.
 ### Spotify App Credentials
 You will need Spotify App Credentials. You can get those at [My Applications](https://developer.spotify.com/my-applications/#!/applications)
 
